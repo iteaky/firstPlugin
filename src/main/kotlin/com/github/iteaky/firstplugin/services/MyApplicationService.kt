@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.iteaky.firstplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.iteaky.firstplugin.MyBundle
 
 class MyApplicationService {
 
